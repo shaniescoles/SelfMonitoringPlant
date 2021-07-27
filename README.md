@@ -15,6 +15,6 @@ A self monitoring plant that will track soil moisture and sun exposure. It also 
 - UV Sensor: https://www.adafruit.com/product/1918
 - 128X32 I2C Oled display: https://www.adafruit.com/product/931
 - 12V Single Channel Relay: https://www.amazon.com/HiLetgo-Channel-Isolation-Support-Trigger/dp/B00LW15D1M/ref=asc_df_B00LW15D1M/?tag=hyprod-20&linkCode=df0&hvadid=167156423255&hvpos=&hvnetw=g&hvrand=10238967733878529107&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031316&hvtargid=pla-343992463804&psc=1
-- Water Pump: amazon.com/LEDGLE-Submersible-Ultra-Quiet-Dual-Purpose-Hydroponics/dp/B085NQ5VVJ/ref=sr_1_5?dchild=1&keywords=water+pump+small+12V&qid=1627404278&sr=8-5
+- Water Pump: https://www.amazon.com/LEDGLE-Submersible-Ultra-Quiet-Dual-Purpose-Hydroponics/dp/B085NQ5VVJ/ref=sr_1_5?dchild=1&keywords=water+pump+small+12V&qid=1627404278&sr=8-5 
 - Arduino Uno: https://www.sparkfun.com/products/11021
 
