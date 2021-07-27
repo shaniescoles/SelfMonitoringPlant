@@ -4,8 +4,10 @@ A self monitoring plant that will track soil moisture and sun exposure. It also 
 # Setup 
 
 - Download the code and open it in the Arduino IDE
-- Wire the soil sensor, uv sensor, display, switch, and water pump based on the pinout 
+- Wire the soil sensor, uv sensor, display, switch, and water pump to the arduino based on the pinout 
 - Upload the code from the Arduino IDE to the Arduino Board 
+- Place the sensors in the plant and place the pump in the water source
+- Power the arduino and relay
 
 # Resources 
 
