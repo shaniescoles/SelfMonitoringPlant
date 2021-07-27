@@ -1,5 +1,5 @@
 # Self Monitoring Plant
-A self monitoring plant that will track soil moisture and sun exposure. It also auto waters the plant based on a set soil moisture threshold
+A self monitoring plant that will track soil moisture and sun exposure. It also auto waters the plant based on a set soil moisture threshold. The diplay will tell the user the soil moisture and the UV index. While watering the plant it will show rain drops, if the UV index is low it will show clouds and if the uv index is high it will show a sun. 
 
 # Setup 
 
